@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect4</string>
+    <string name="jugar">Jugar</string>
+    <string name="hello_gerardo">Hello Gerardo!</string>
+</resources>
